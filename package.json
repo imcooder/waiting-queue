@@ -1,0 +1,23 @@
+{
+  "name": "waiting-queue",
+  "version": "1.0.0",
+  "description": "waiting queue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imcooder/waiting-queue.git"
+  },
+  "keywords": [
+    "waiting",
+    "queue"
+  ],
+  "author": "imcooder@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imcooder/waiting-queue/issues"
+  },
+  "homepage": "https://github.com/imcooder/waiting-queue#readme"
+}
