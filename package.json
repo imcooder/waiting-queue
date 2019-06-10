@@ -1,6 +1,6 @@
 {
     "name": "waiting-queue",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "waiting queue",
     "main": "index.js",
     "scripts": {
