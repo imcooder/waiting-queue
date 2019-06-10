@@ -27,6 +27,7 @@ const max = 5;
 for(let i = 0; i < max; i++) {
     queue.add({
         id: i,
+        requestId: 3,
         process: process
     }, {
         waitTimeout: 1000
