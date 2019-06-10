@@ -1,6 +1,6 @@
 # waiting-queue
-waiting queue
-等待队列：等待队列通过控制到处理模块的并发度 以防止业务模块雪崩
+waiting queue  
+等待队列：等待队列通过控制到处理模块的并发数 环节压力以防止业务模块雪崩
 
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
