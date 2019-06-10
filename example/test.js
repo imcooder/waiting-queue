@@ -27,7 +27,7 @@ const max = 5;
 for(let i = 0; i < max; i++) {
     queue.add({
         id: i,
-        callback: process
+        process: process
     }, {
         waitTimeout: 1000
     }).then(id => {
